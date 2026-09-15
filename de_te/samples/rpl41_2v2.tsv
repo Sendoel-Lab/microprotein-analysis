@@ -1,0 +1,7 @@
+rna_sample	ribo_sample	ribo_counts	batch	genotype
+A3_GmC7	80S_Gm10076C7R1_CGTAA	${MP_DATA}/riboseq/counts/counts_run1.tsv	run1	Gm10076C7
+A5_RplF10	80S_Rpl41F10R1_GATCA	${MP_DATA}/riboseq/counts/counts_run1.tsv	run1	Rpl41F10
+B5_RplF10	80S_Rpl41F10R2_GATCA	${MP_DATA}/riboseq/counts/counts_run1.tsv	run1	Rpl41F10
+B2_mCherry	80S_mCherryR2_AGCTA	${MP_DATA}/riboseq/counts/counts_run1.tsv	run1	mCherry
+C1_mCherry_1	A1_80S_mCherryR1_AGCTA	${MP_DATA}/riboseq/counts/counts_run2.tsv	run2	mCherry
+C5_GmC7_2	A2_80S_Gm10076C7R2_CGTAA	${MP_DATA}/riboseq/counts/counts_run2.tsv	run2	Gm10076C7

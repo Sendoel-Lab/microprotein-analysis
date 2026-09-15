@@ -1,0 +1,15 @@
+pool	bam
+set1_Ctrl	${MP_EXTERNAL}/riboseq_initial/CtrlR1.tx.dedup.bam
+set1_Ctrl	${MP_EXTERNAL}/riboseq_initial/CtrlR2.tx.dedup.bam
+set1_Ctrl	${MP_EXTERNAL}/riboseq_initial/CtrlR3.tx.dedup.bam
+set1_Ctrl	${MP_EXTERNAL}/riboseq_initial/CtrlR4.tx.dedup.bam
+set1_Gm10076	${MP_EXTERNAL}/riboseq_initial/C7KOR1.tx.dedup.bam
+set1_Gm10076	${MP_EXTERNAL}/riboseq_initial/C7KOR2.tx.dedup.bam
+set1_Gm10076	${MP_EXTERNAL}/riboseq_initial/C7KOR3.tx.dedup.bam
+set1_Gm10076	${MP_EXTERNAL}/riboseq_initial/C7KOR4.tx.dedup.bam
+set2_Ctrl	${MP_DATA}/riboseq/run1/80S_mCherryR2_AGCTA.tx.dedup.bam
+set2_Ctrl	${MP_DATA}/riboseq/run2/A1_80S_mCherryR1_AGCTA.tx.dedup.bam
+set2_Gm10076	${MP_DATA}/riboseq/run1/80S_Gm10076C7R1_CGTAA.tx.dedup.bam
+set2_Gm10076	${MP_DATA}/riboseq/run2/A2_80S_Gm10076C7R2_CGTAA.tx.dedup.bam
+set2_Rpl41	${MP_DATA}/riboseq/run1/80S_Rpl41F10R1_GATCA.tx.dedup.bam
+set2_Rpl41	${MP_DATA}/riboseq/run1/80S_Rpl41F10R2_GATCA.tx.dedup.bam

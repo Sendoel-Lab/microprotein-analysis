@@ -1,0 +1,12 @@
+sample	barcode	fastq
+A1_80S_mCherryR1_AGCTA	AGCTA	poolA_R1.fastq.gz
+A2_80S_Gm10076C7R2_CGTAA	CGTAA	poolA_R1.fastq.gz
+A3_80S_Rpl41C11R1_GATCA	GATCA	poolA_R1.fastq.gz
+A4_80S_Rpl41C11R2_GCATA	GCATA	poolA_R1.fastq.gz
+A5_disome_Rpl41F10R1_TAGAC	TAGAC	poolA_R1.fastq.gz
+B1_80S_mCherryR1_AGCTA	AGCTA	poolB_R1.fastq.gz
+B2_80S_mCherryR2_CGTAA	CGTAA	poolB_R1.fastq.gz
+B3_80S_Gm10076C7R1_GATCA	GATCA	poolB_R1.fastq.gz
+B4_80S_Gm10076C7R1_GCATA	GCATA	poolB_R1.fastq.gz
+B5_80S_Gm10076C7mRNAR1_TAGAC	TAGAC	poolB_R1.fastq.gz
+B6_80S_Gm10076C7mRNAR2_TCTAG	TCTAG	poolB_R1.fastq.gz

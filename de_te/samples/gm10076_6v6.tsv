@@ -1,0 +1,13 @@
+rna_sample	ribo_sample	ribo_counts	batch	genotype
+RNA1_Ctrl_R1	CtrlR1	${MP_EXTERNAL}/riboseq_initial/counts/CtrlR1.tsv	initial	Ctrl
+RNA3_Ctrl_R2	CtrlR2	${MP_EXTERNAL}/riboseq_initial/counts/CtrlR2.tsv	initial	Ctrl
+RNA5_Ctrl_R3	CtrlR3	${MP_EXTERNAL}/riboseq_initial/counts/CtrlR3.tsv	initial	Ctrl
+RNA7_Ctrl_R4	CtrlR4	${MP_EXTERNAL}/riboseq_initial/counts/CtrlR4.tsv	initial	Ctrl
+RNA2_C7KO_R1	C7KOR1	${MP_EXTERNAL}/riboseq_initial/counts/C7KOR1.tsv	initial	C7KO
+RNA5_C7KO_R2	C7KOR2	${MP_EXTERNAL}/riboseq_initial/counts/C7KOR2.tsv	initial	C7KO
+RNA6_C7KO_R3	C7KOR3	${MP_EXTERNAL}/riboseq_initial/counts/C7KOR3.tsv	initial	C7KO
+RNA8_C7KO_R4	C7KOR4	${MP_EXTERNAL}/riboseq_initial/counts/C7KOR4.tsv	initial	C7KO
+B2_mCherry	80S_mCherryR2_AGCTA	${MP_DATA}/riboseq/counts/counts_run1.tsv	run1	Ctrl
+A3_GmC7	80S_Gm10076C7R1_CGTAA	${MP_DATA}/riboseq/counts/counts_run1.tsv	run1	C7KO
+C1_mCherry_1	A1_80S_mCherryR1_AGCTA	${MP_DATA}/riboseq/counts/counts_run2.tsv	run2	Ctrl
+C5_GmC7_2	A2_80S_Gm10076C7R2_CGTAA	${MP_DATA}/riboseq/counts/counts_run2.tsv	run2	C7KO

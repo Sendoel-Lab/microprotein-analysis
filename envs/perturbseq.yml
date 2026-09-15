@@ -1,0 +1,14 @@
+name: mp-perturbseq
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - openpyxl
+  - pip
+  - pip:
+      - adjustText
